@@ -1,4 +1,4 @@
 refurbished-gear
 ================
 
-this will park refurbished gear: fixed rpm spec file, etc.
+This repo will park refurbished gear: fixed rpm spec file, etc.
